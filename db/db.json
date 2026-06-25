@@ -1,20 +1,24 @@
 {
-  "students": [
+  "users": [
     {
-      "id": "1",
       "name": "Anudeep",
-      "course": "HTML"
+      "id": 1
     },
     {
-      "id": "2",
-      "name": "Sandeep",
-      "course": "CSS"
+      "name": "Narendra",
+      "id": 2
     },
     {
-      "id": "3",
+      "name": "Mahendra",
+      "id": 3
+    },
+    {
+      "name": "Kowshik",
+      "id": 4
+    },
+    {
       "name": "Sandeep",
-      "course": "Sql"
+      "id": 5
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
