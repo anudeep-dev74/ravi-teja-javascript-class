@@ -1,0 +1,46 @@
+{
+  "student": [
+    {
+      "studentId": "ST1002",
+      "studentName": "Rahul Sharma",
+      "branch": "Information Technology",
+      "year": 3,
+      "cgpa": 8.42,
+      "subjects": [
+        "Python",
+        "DBMS",
+        "Computer Networks",
+        "Operating Systems"
+      ],
+      "id": 1
+    },
+    {
+      "studentId": "ST1001",
+      "studentName": "Anudeep Pusapati",
+      "branch": "Computer Science",
+      "year": 4,
+      "cgpa": 8.75,
+      "subjects": [
+        "Java",
+        "SQL",
+        "Spring Boot",
+        "REST API"
+      ],
+      "id": 2
+    },
+    {
+      "id": 3,
+      "studentId": "ST1003",
+      "studentName": "Priya Reddy",
+      "branch": "Electronics and Communication",
+      "year": 2,
+      "cgpa": 9.1,
+      "subjects": [
+        "Digital Electronics",
+        "Signals",
+        "C Programming",
+        "Mathematics"
+      ]
+    }
+  ]
+}
