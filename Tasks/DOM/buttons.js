@@ -4,7 +4,7 @@
 
 */
 
-let container = document.createElement("div");
+/* let container = document.createElement("div");
 let button_1 = document.createElement("button");
 button_1.innerText = "Primary"
 button_1.style.backgroundColor = "#0d6efd";
@@ -57,3 +57,10 @@ container.append(button_4)
 container.append(button_5)
 
 document.body.append(container)
+*/
+
+let container = document.createElement("div");
+let button_ele = document.createElement("button");
+let button_texts = ["Primary", "Success", "Danger", "Warning", "Info"];
+let button_colors = ["#0d6efd", "#198754", "#dc3545", "#ffc107", "#0dcaf0"];
+
